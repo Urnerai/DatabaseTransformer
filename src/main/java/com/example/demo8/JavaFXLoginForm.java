@@ -979,7 +979,7 @@ public class JavaFXLoginForm extends Application {
             blob = "BLOB";
         }
     }
-    public static class MySQL extends Database {
+    public static class MySQL extends Database {Xy
 
         public MySQL() {
             integer = "INT";
